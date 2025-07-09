@@ -22,11 +22,12 @@ A modern, responsive student registration form built with HTML, CSS, and JavaScr
 4. Submit the form to see validation and feedback in action.
 
 ## Project Structure
-- `Student_Registration_Form.html` — Main HTML file with embedded CSS and JavaScript.
-- (Optional) `js/script.js` — If you wish to separate JavaScript logic, move the script section here.
+- `Student_Registration_Form.html` — Main HTML file
+- `style.css` — All styles for the form
+- `script.js` — All JavaScript for interactivity
 
 ## Customization
-- You can easily change the color scheme in the `<style>` section.
+- You can easily change the color scheme in `style.css`.
 - To integrate with a backend, connect the form's submit handler to your server logic.
 
 ## License
